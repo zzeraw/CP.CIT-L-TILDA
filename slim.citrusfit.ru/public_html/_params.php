@@ -1,0 +1,5 @@
+<?php
+
+$site = 'sitename.com';
+
+?>
